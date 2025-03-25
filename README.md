@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Gourav Verma!  
+🚀 Aspiring Software Engineer | Frontend Developer | Problem Solver  
 
-<!--
-**Gourav713/Gourav713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building user-friendly web applications and solving problems with technology. I love creating modern, optimized, and visually appealing websites.  
 
-Here are some ideas to get you started:
+## 🚀 Skills  
+- Languages: C, Java, Python  
+- Web Development: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS  
+- Tools: VS Code, GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects  
+- [Photography Frontend Page](#) – Stylish sidebar navigation menu built using only HTML & CSS, with zero JavaScript.  
+- [Premier Model Website](#) – A sleek and modern web application designed for photography and fashion enthusiasts.  
+- [Dribbble Model Website](#) – A Dribbble-inspired website clone built using HTML & CSS.  
+
+## 📜 Certifications  
+- 🏆 **Database Management System Certificate** (NPTEL)  
+- 🏆 **Soft Skills Certificate** (NPTEL)  
+- 🏆 Multiple certifications from various tech workshops  
+
+## 🔥 Open Source Contributions  
+I’m starting my journey in **open-source contributions** and would love to collaborate on exciting projects!  
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Gourav713) 
