@@ -9,7 +9,7 @@ I'm passionate about building user-friendly web applications and solving problem
 - Tools: VS Code, GitHub  
 
 ## 🌟 Projects  
-- [Photography Frontend Page](#) – Stylish sidebar navigation menu built using only HTML & CSS, with zero JavaScript.  
+- [Photography Frontend Page](https://github.com/Gourav713/Photography-Frontend-Page) – Stylish sidebar navigation menu built using only HTML & CSS, with zero JavaScript.  
 - [Premier Model Website](#) – A sleek and modern web application designed for photography and fashion enthusiasts.  
 - [Dribbble Model Website](#) – A Dribbble-inspired website clone built using HTML & CSS.  
 
